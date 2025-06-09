@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Dhananjay Phirke</h1>
 <h3 align="center">Full-Stack Web Developer | React | .NET | Node.js</h3>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=programmerdp21223" alt="programmerdp21223" /></a> </p>
+
 - 🌱 I’m currently learning **Java, SpringBoot, Hibernate, Microservices, Docker**
 
 - 👨‍💻 All of my projects are available at [https://programmerdp21223.github.io/portfolio/](https://programmerdp21223.github.io/portfolio/)
